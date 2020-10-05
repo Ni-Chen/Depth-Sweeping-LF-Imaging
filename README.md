@@ -1,18 +1,6 @@
 # Light field imaging based on depth measurements
 
 
-## Light field imaging with back-projection
-
-
-
-
-
-## Light field moment imaging
-
-
-
-
-
 
 ## Reference
 1. J.-H. Park, "Light ray field capture using focal plane sweeping and its optical reconstruction using 3D displays", Optics Express, 2014.
